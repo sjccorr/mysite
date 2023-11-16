@@ -5,7 +5,7 @@ body{background-image: url(yosemitefalls.jpg);
      max-width: auto; 
      max-height: auto;    
   }
-h1{color:violet;}
+h1{color:red;}     //changed color of h1--was violet
 h2{color:violet;}
 div{text-align:center;} 
 h3{color:white;
